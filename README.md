@@ -12,8 +12,10 @@ It's recommended to use [tgmusicbot](https://github.com/xxMUNNAxx/Vc-Bot-MunnaOx
 along with this userbot.
 
 ## Deploy to Heroku
+Before deploying don't forget to give star to our repo
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xxMUNNAxx/Vc-Bot-MunnaOxy/tree/dev)
+
 
 - Generate Pyrogram session string by
   running [generate-pyrogram-session-string.py](generate-pyrogram-session-string.py)
